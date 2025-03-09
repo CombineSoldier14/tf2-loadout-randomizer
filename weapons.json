@@ -1,0 +1,750 @@
+{
+    "scout":{
+        "primary":{
+            "Scattergun":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/1/1b/Item_icon_Scattergun.png/200px-Item_icon_Scattergun.png",
+                "name":"Scattergun"
+            },
+            "Force-A-Nature":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/e/ed/Item_icon_Force-A-Nature.png/200px-Item_icon_Force-A-Nature.png",
+                "name":"Force-A-Nature"
+            },
+            "Shortstop":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/8/84/Item_icon_Shortstop.png/200px-Item_icon_Shortstop.png",
+                "name":"Shortstop"
+            },
+            "Soda Popper":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/f/f1/Item_icon_Soda_Popper.png/200px-Item_icon_Soda_Popper.png",
+                "name":"Soda Popper"
+            },
+            "Baby Face's Blaster":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/e/e6/Item_icon_Baby_Face%27s_Blaster.png/200px-Item_icon_Baby_Face%27s_Blaster.png",
+                "name":"Baby's Face Blaster"
+            },
+            "Back Scatter":{
+                "image":"https://wiki.teamfortress.com/w/images/thumb/1/11/Item_icon_Back_Scatter.png/200px-Item_icon_Back_Scatter.png",
+                "name":"Back Scatter"
+            }
+        },
+        "secondary":{
+            "Pistol":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Pistol.png",
+                "name":"Pistol"
+            },
+            "Lugermorph":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Lugermorph.png",
+                "name":"Lugermorph"
+            },
+            "C.A.P.P.E.R":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/C.A.P.P.E.R.png",
+                "name":"C.A.P.P.E.R."
+            },
+            "Winger":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Winger.png",
+                "name":"Winger"
+            },
+            "Pretty Boy's Pocket Pistol":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Pretty_Boy%27s_Pocket_Pistol.png",
+                "name":"Pretty Boy's Pocket Pistol"
+            },
+            "Flying Guillotine":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Flying_Guillotine.png",
+                "name": "Flying Guillotine"
+            },
+            "Mad Milk":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Mad_Milk.png",
+                "name":"Mad Milk"
+            },
+            "Mutated Milk":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Mutated_Milk.png",
+                "name":"Mutated Milk"
+            }
+        },
+        "melee":{
+            "Bat":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Bat.png",
+                "name":"Bat"
+            },
+            "Holy Mackerel":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Holy_Mackerel.png",
+                "name":"Holy Mackerel"
+            },
+            "Candy Cane":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Candy_Cane.png",
+                "name":"Candy Cane"
+            },
+            "Sandman":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Sandman.png",
+                "name":"Sandman"
+            },
+            "Boston Basher":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Boston_Basher.png",
+                "name":"Boston Basher"
+            },
+            "Three-Rune Blade":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Three-Rune_Blade.png",
+                "name":"Three-Rune Blade"
+            },
+            "Sun-on-a-Stick":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Sun-on-a-Stick.png",
+                "name":"Sun-on-a-Stick"
+            },
+            "Fan O'War":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Fan_O%27War.png",
+                "name":"Fan O'War"
+            },
+            "Atomizer":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Atomizer.png",
+                "name":"Atomizer"
+            }
+        }
+    },
+    "soldier": {
+        "primary": {
+            "Rocket Launcher": {
+                "name": "Rocket Launcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Rocket_Launcher.png"
+            },
+            "Direct Hit": {
+                "name": "Direct Hit",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Direct_Hit.png"
+            },
+            "Black Box": {
+                "name": "Black Box",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Black_Box.png"
+            },
+            "Rocket Jumper": {
+                "name": "Rocket Jumper",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Rocket_Jumper.png"
+            },
+            "Liberty Launcher": {
+                "name": "Liberty Launcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Liberty_Launcher.png"
+            },
+            "Cow Mangler 5000": {
+                "name": "Cow Mangler 5000",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Cow_Mangler_5000.png"
+            },
+            "Beggar's Bazooka": {
+                "name": "Beggar's Bazooka",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Beggar%27s_Bazooka.png"
+            },
+            "Air Strike": {
+                "name": "Air Strike",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Air_Strike.png"
+            },
+            "Original": {
+                "name": "Original",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Original.png"
+            }
+        },
+        "secondary": {
+            "Shotgun": {
+                "name": "Shotgun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shotgun.png"
+            },
+            "Buff Banner": {
+                "name": "Buff Banner",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Buff_Banner.png"
+            },
+            "Gunboats": {
+                "name": "Gunboats",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Gunboats.png"
+            },
+            "Battalion's Backup": {
+                "name": "Battalion's Backup",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Battalion%27s_Backup.png"
+            },
+            "Concheror": {
+                "name": "Concheror",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Concheror.png"
+            },
+            "Mantreads": {
+                "name": "Mantreads",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Mantreads.png"
+            },
+            "Reserve Shooter": {
+                "name": "Reserve Shooter",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Reserve_Shooter.png"
+            },
+            "Righteous Bison": {
+                "name": "Righteous Bison",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Righteous_Bison.png"
+            },
+            "Panic Attack": {
+                "name": "Panic Attack",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Panic_Attack.png"
+            }
+        },
+        "melee": {
+            "Shovel": {
+                "name": "Shovel",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shovel.png"
+            },
+            "Equalizer": {
+                "name": "Equalizer",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Equalizer.png"
+            },
+            "Pain Train": {
+                "name": "Pain Train",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Pain_Train.png"
+            },
+            "Half-Zatoichi": {
+                "name": "Half-Zatoichi",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Half-Zatoichi.png"
+            },
+            "Disciplinary Action": {
+                "name": "Disciplinary Action",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Disciplinary_Action.png"
+            },
+            "Market Gardener": {
+                "name": "Market Gardener",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Market_Gardener.png"
+            },
+            "Escape Plan": {
+                "name": "Escape Plan",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Escape_Plan.png"
+            }
+        }
+    },
+    "pyro": {
+        "primary": {
+            "Flame Thrower": {
+                "name": "Flame Thrower",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Flame_Thrower.png"
+            },
+            "Backburner": {
+                "name": "Backburner",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Backburner.png"
+            },
+            "Degreaser": {
+                "name": "Degreaser",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Degreaser.png"
+            },
+            "Phlogistinator": {
+                "name": "Phlogistinator",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Phlogistinator.png"
+            },
+            "Rainblower": {
+                "name": "Rainblower",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Rainblower.png"
+            },
+            "Dragon's Fury": {
+                "name": "Dragon's Fury",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Dragon%27s_Fury.png"
+            }
+        },
+        "secondary": {
+            "Shotgun": {
+                "name": "Shotgun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shotgun.png"
+            },
+            "Flare Gun": {
+                "name": "Flare Gun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Flare_Gun.png"
+            },
+            "Detonator": {
+                "name": "Detonator",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Detonator.png"
+            },
+            "Manmelter": {
+                "name": "Manmelter",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Manmelter.png"
+            },
+            "Scorch Shot": {
+                "name": "Scorch Shot",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Scorch_Shot.png"
+            },
+            "Panic Attack": {
+                "name": "Panic Attack",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Panic_Attack.png"
+            },
+            "Reserve Shooter": {
+                "name": "Reserve Shooter",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Reserve_Shooter.png"
+            }
+        },
+        "melee": {
+            "Fire Axe": {
+                "name": "Fire Axe",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Fire_Axe.png"
+            },
+            "Axtinguisher": {
+                "name": "Axtinguisher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Axtinguisher.png"
+            },
+            "Homewrecker": {
+                "name": "Homewrecker",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Homewrecker.png"
+            },
+            "Powerjack": {
+                "name": "Powerjack",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Powerjack.png"
+            },
+            "Back Scratcher": {
+                "name": "Back Scratcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Back_Scratcher.png"
+            },
+            "Sharpened Volcano Fragment": {
+                "name": "Sharpened Volcano Fragment",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Sharpened_Volcano_Fragment.png"
+            },
+            "Third Degree": {
+                "name": "Third Degree",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Third_Degree.png"
+            },
+            "Lollichop": {
+                "name": "Lollichop",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Lollichop.png"
+            },
+            "Neon Annihilator": {
+                "name": "Neon Annihilator",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Neon_Annihilator.png"
+            }
+        }
+    },
+    "demoman": {
+        "primary": {
+            "Grenade Launcher": {
+                "name": "Grenade Launcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Grenade_Launcher.png"
+            },
+            "Loch-n-Load": {
+                "name": "Loch-n-Load",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Loch-n-Load.png"
+            },
+            "Ali Baba's Wee Booties": {
+                "name": "Ali Baba's Wee Booties",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Ali_Baba%27s_Wee_Booties.png"
+            },
+            "Bootlegger": {
+                "name": "Bootlegger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Bootlegger.png"
+            },
+            "Loose Cannon": {
+                "name": "Loose Cannon",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Loose_Cannon.png"
+            },
+            "Iron Bomber": {
+                "name": "Iron Bomber",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Iron_Bomber.png"
+            }
+        },
+        "secondary": {
+            "Stickybomb Launcher": {
+                "name": "Stickybomb Launcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Stickybomb_Launcher.png"
+            },
+            "Chargin' Targe": {
+                "name": "Chargin' Targe",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Chargin%27_Targe.png"
+            },
+            "Splendid Screen": {
+                "name": "Splendid Screen",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Splendid_Screen.png"
+            },
+            "Tide Turner": {
+                "name": "Tide Turner",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Tide_Turner.png"
+            },
+            "Quickiebomb Launcher": {
+                "name": "Quickiebomb Launcher",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Quickiebomb_Launcher.png"
+            },
+            "Scottish Resistance": {
+                "name": "Scottish Resistance",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Scottish_Resistance.png"
+            },
+            "Sticky Jumper": {
+                "name": "Sticky Jumper",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Sticky_Jumper.png"
+            }
+        },
+        "melee": {
+            "Bottle": {
+                "name": "Bottle",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Bottle.png"
+            },
+            "Eyelander": {
+                "name": "Eyelander",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Eyelander.png"
+            },
+            "Scottish Handshake": {
+                "name": "Scottish Handshake",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Scottish_Handshake.png"
+            },
+            "Pain Train": {
+                "name": "Pain Train",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Pain_Train.png"
+            },
+            "Half-Zatoichi": {
+                "name": "Half-Zatoichi",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Half-Zatoichi.png"
+            },
+            "Ullapool Caber": {
+                "name": "Ullapool Caber",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Ullapool_Caber.png"
+            },
+            "Claidheamh Mòr": {
+                "name": "Claidheamh Mòr",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Claidheamh_M%C3%B2r.png"
+            },
+            "Persian Persuader": {
+                "name": "Persian Persuader",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Persian_Persuader.png"
+            }
+        }
+    },
+    "heavy": {
+        "primary": {
+            "Minigun": {
+                "name": "Minigun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Minigun.png"
+            },
+            "Natascha": {
+                "name": "Natascha",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Natascha.png"
+            },
+            "Brass Beast": {
+                "name": "Brass Beast",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Brass_Beast.png"
+            },
+            "Tomislav": {
+                "name": "Tomislav",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Tomislav.png"
+            },
+            "Huo-Long Heater": {
+                "name": "Huo-Long Heater",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Huo-Long_Heater.png"
+            }
+        },
+        "secondary": {
+            "Shotgun": {
+                "name": "Shotgun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shotgun.png"
+            },
+            "Sandvich": {
+                "name": "Sandvich",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Sandvich.png"
+            },
+            "Dalokohs Bar": {
+                "name": "Dalokohs Bar",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Dalokohs_Bar.png"
+            },
+            "Buffalo Steak Sandvich": {
+                "name": "Buffalo Steak Sandvich",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Buffalo_Steak_Sandvich.png"
+            },
+            "Family Business": {
+                "name": "Family Business",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Family_Business.png"
+            },
+            "Panic Attack": {
+                "name": "Panic Attack",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Panic_Attack.png"
+            }
+        },
+        "melee": {
+            "Fists": {
+                "name": "Fists",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Fists.png"
+            },
+            "Killing Gloves of Boxing": {
+                "name": "Killing Gloves of Boxing",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Killing_Gloves_of_Boxing.png"
+            },
+            "Gloves of Running Urgently": {
+                "name": "Gloves of Running Urgently",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Gloves_of_Running_Urgently.png"
+            },
+            "Warrior's Spirit": {
+                "name": "Warrior's Spirit",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Warrior%27s_Spirit.png"
+            },
+            "Fists of Steel": {
+                "name": "Fists of Steel",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Fists_of_Steel.png"
+            },
+            "Eviction Notice": {
+                "name": "Eviction Notice",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Eviction_Notice.png"
+            }
+        }
+    },
+    "engineer": {
+        "primary": {
+            "Shotgun": {
+                "name": "Shotgun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shotgun.png"
+            },
+            "Frontier Justice": {
+                "name": "Frontier Justice",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Frontier_Justice.png"
+            },
+            "Widowmaker": {
+                "name": "Widowmaker",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Widowmaker.png"
+            },
+            "Pomson 6000": {
+                "name": "Pomson 6000",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Pomson_6000.png"
+            },
+            "Rescue Ranger": {
+                "name": "Rescue Ranger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Rescue_Ranger.png"
+            }
+        },
+        "secondary": {
+            "Pistol": {
+                "name": "Pistol",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Pistol.png"
+            },
+            "Wrangler": {
+                "name": "Wrangler",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Wrangler.png"
+            },
+            "Short Circuit": {
+                "name": "Short Circuit",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Short_Circuit.png"
+            }
+        },
+        "melee": {
+            "Wrench": {
+                "name": "Wrench",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Wrench.png"
+            },
+            "Gunslinger": {
+                "name": "Gunslinger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Gunslinger.png"
+            },
+            "Southern Hospitality": {
+                "name": "Southern Hospitality",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Southern_Hospitality.png"
+            },
+            "Jag": {
+                "name": "Jag",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Jag.png"
+            },
+            "Eureka Effect": {
+                "name": "Eureka Effect",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Eureka_Effect.png"
+            }
+        }
+    },
+    "medic": {
+        "primary": {
+            "Syringe Gun": {
+                "name": "Syringe Gun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Syringe_Gun.png"
+            },
+            "Blutsauger": {
+                "name": "Blutsauger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Blutsauger.png"
+            },
+            "Crusader's Crossbow": {
+                "name": "Crusader's Crossbow",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Crusader%27s_Crossbow.png"
+            },
+            "Overdose": {
+                "name": "Overdose",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Overdose.png"
+            }
+        },
+        "secondary": {
+            "Medi Gun": {
+                "name": "Medi Gun",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Medi_Gun.png"
+            },
+            "Kritzkrieg": {
+                "name": "Kritzkrieg",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Kritzkrieg.png"
+            },
+            "Quick-Fix": {
+                "name": "Quick-Fix",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Quick-Fix.png"
+            },
+            "Vaccinator": {
+                "name": "Vaccinator",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Vaccinator.png"
+            }
+        },
+        "melee": {
+            "Bonesaw": {
+                "name": "Bonesaw",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Bonesaw.png"
+            },
+            "Ubersaw": {
+                "name": "Ubersaw",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Ubersaw.png"
+            },
+            "Vita-Saw": {
+                "name": "Vita-Saw",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Vita-Saw.png"
+            },
+            "Amputator": {
+                "name": "Amputator",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Amputator.png"
+            },
+            "Solemn Vow": {
+            "name": "Solemn Vow",
+            "image": "https://wiki.teamfortress.com/w/images/1/1b/Solemn_Vow.png"
+            }
+        },
+        "sapper":{
+            "dummy":{
+                "name":"",
+                "image":""
+            }
+        }
+    },
+    "sniper":{
+        "primary":{
+            "Sniper Rifle":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Sniper_Rifle.png",
+                "name":"Sniper Rifle"
+            },
+            "Huntsman":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Huntsman.png",
+                "name":"Huntsman"
+            },
+            "Sydney Sleeper":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Sydney_Sleeper.png",
+                "name":"Sydney Sleeper"
+            },
+            "Bazaar Bargain":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Bazaar_Bargain.png",
+                "name":"Bazaar Bargain"
+            },
+            "Machina":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Machina.png",
+                "name":"Machina"
+            },
+            "Hitman's Heatmaker":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Hitman%27s_Heatmaker.png",
+                "name":"Hitman's Heatmaker"
+            },
+            "Classic":{
+                "image":"https://wiki.teamfortress.com/w/images/1/1b/Classic.png",
+                "name":"Classic"
+            }
+        },
+        "secondary":{
+                "SMG": {
+                    "name": "SMG",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/SMG.png"
+                },
+                "Jarate": {
+                    "name": "Jarate",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/Jarate.png"
+                },
+                "Razorback": {
+                    "name": "Razorback",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/Razorback.png"
+                },
+                "Darwin's Danger Shield": {
+                    "name": "Darwin's Danger Shield",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/Darwin%27s_Danger_Shield.png"
+                },
+                "Cozy Camper": {
+                    "name": "Cozy Camper",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/Cozy_Camper.png"
+                },
+                "Cleaner's Carbine": {
+                    "name": "Cleaner's Carbine",
+                    "image": "https://wiki.teamfortress.com/w/images/1/1b/Cleaner%27s_Carbine.png"
+                }
+        },
+        "melee": {
+            "Kukri": {
+                "name": "Kukri",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Kukri.png"
+            },
+            "Tribalman's Shiv": {
+                "name": "Tribalman's Shiv",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Tribalman%27s_Shiv.png"
+            },
+            "Bushwacka": {
+                "name": "Bushwacka",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Bushwacka.png"
+            },
+            "Shahanshah": {
+                "name": "Shahanshah",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Shahanshah.png"
+            }
+        }
+    },
+    "spy": {
+        "primary": {
+            "Revolver": {
+                "name": "Revolver",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Revolver.png"
+            },
+            "Ambassador": {
+                "name": "Ambassador",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Ambassador.png"
+            },
+            "L'Etranger": {
+                "name": "L'Etranger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/L%27Etranger.png"
+            },
+            "Enforcer": {
+                "name": "Enforcer",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Enforcer.png"
+            },
+            "Diamondback": {
+                "name": "Diamondback",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Diamondback.png"
+            }
+        },
+        "secondary": {
+            "Knife": {
+                "name": "Knife",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Knife.png"
+            },
+            "Your Eternal Reward": {
+                "name": "Your Eternal Reward",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Your_Eternal_Reward.png"
+            },
+            "Conniver's Kunai": {
+                "name": "Conniver's Kunai",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Conniver%27s_Kunai.png"
+            },
+            "Big Earner": {
+                "name": "Big Earner",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Big_Earner.png"
+            },
+            "Spy-cicle": {
+                "name": "Spy-cicle",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Spy-cicle.png"
+            }
+        },
+        "melee": {
+            "Disguise Kit": {
+                "name": "Disguise Kit",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Disguise_Kit.png"
+            },
+            "Invis Watch": {
+                "name": "Invis Watch",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Invis_Watch.png"
+            },
+            "Cloak and Dagger": {
+                "name": "Cloak and Dagger",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Cloak_and_Dagger.png"
+            },
+            "Dead Ringer": {
+                "name": "Dead Ringer",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Dead_Ringer.png"
+            }
+        },
+        "sapper":{
+            "Sapper": {
+                "name": "Sapper",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Sapper.png"
+            },
+            "Red-Tape Recorder": {
+                "name": "Red-Tape Recorder",
+                "image": "https://wiki.teamfortress.com/w/images/1/1b/Red-Tape_Recorder.png"
+            }
+        }
+    }
+}

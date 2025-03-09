@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TF2 Loadout Randomizer</title>
+</head>
+<body>
+    <div class="container">
+        <h1>TF2 Loadout Randomizer</h1>
+        <p>Click the button below to generate a random loadout for a random class.</p>
+        <p></p>
+        <p>Made by CombineSoldier14: https://github.com/CombineSoldier14</p>
+        <select id="class-select">
+            <option value="scout">Scout</option>
+            <option value="soldier">Soldier</option>
+            <option value="pyro">Pyro</option>
+            <option value="demoman">Demoman</option>
+            <option value="heavy">Heavy</option>
+            <option value="engineer">Engineer</option>
+            <option value="medic">Medic</option>
+            <option value="sniper">Sniper</option>
+            <option value="spy">Spy</option>
+        </select>
+        <button id="randomize", onclick="getLoadout()">Randomize</button>
+        <div id="loadout">
+            <h2>Loadout</h2>
+            <div id="tf2class"></div>
+            <p></p>
+            <div id="primary"></div>
+            <div id="secondary"></div>
+            <div id="melee"></div>
+            <div id="sapper"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script type="text/javascript" src="weapons.json"></script>
+</body>
+</html>
